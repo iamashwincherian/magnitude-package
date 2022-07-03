@@ -1,0 +1,14 @@
+{
+  "name": "magnitude-analytics",
+  "version": "1.0.0",
+  "description": "Magnitude Analytics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Magnitude"
+  ],
+  "author": "Ashwin Cherian Joseph",
+  "license": "ISC"
+}
